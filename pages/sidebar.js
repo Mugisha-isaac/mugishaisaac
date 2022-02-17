@@ -1,9 +1,11 @@
-
+import {AiOutlineRise} from 'react-icons/ai'
 
 export default function Sidebar(){
     return(
         <div>
-            sidebar
+            <p>
+            <AiOutlineRise/> Analytics
+            </p>
         </div>
     )
 }
